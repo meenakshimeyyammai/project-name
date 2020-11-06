@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "421121604524",
+    "firebase_url": "https://stock-app-b0cae.firebaseio.com",
+    "project_id": "stock-app-b0cae",
+    "storage_bucket": "stock-app-b0cae.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:421121604524:android:cb3c11d14661dd38135809",
+        "android_client_info": {
+          "package_name": "techcovery.in"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "421121604524-rh45kii4uebe3n0ospr6kb0e1epi33r2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "techcovery.in",
+            "certificate_hash": "2700ca20a88818eb0fa1c0dedeb52921dfcc0c17"
+          }
+        },
+        {
+          "client_id": "421121604524-pbb3d4nuopcf2n9sech9fhk5r2p4nbfq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJOHCDkReEBHl7KkL88COXIljXS2Qeshk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "421121604524-pbb3d4nuopcf2n9sech9fhk5r2p4nbfq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
